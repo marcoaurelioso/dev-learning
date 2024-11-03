@@ -40,7 +40,7 @@
 ## Kubernetes (k8s)
 - [O que é Helm?](https://www.youtube.com/watch?v=W7Wk2d-p6OA)
 - [O que é o Helm? Veja como executar e configurar aplicações no Kubernetes com Helm Charts](https://www.youtube.com/watch?v=qqkLzFCyf2s)
-- [Ciclo de vida dos Pods | Kubenetes na prática]([https://www.youtube.com/watch?v=IKjcdYQvcDo](https://www.youtube.com/watch?v=CCM-ud-mCIs&list=PLg7nVxv7fa6fIeqsfIrw7cGjDU32tTykR&index=2))
+- [Ciclo de vida dos Pods | Kubenetes na prática](https://www.youtube.com/watch?v=CCM-ud-mCIs&list=PLg7nVxv7fa6fIeqsfIrw7cGjDU32tTykR&index=2)
 - [Conhecendo o ConfigMap | Kubernetes](https://www.youtube.com/watch?v=7sQGK8XEk8w&list=PLg7nVxv7fa6fIeqsfIrw7cGjDU32tTykR&index=3)
 
 ## AWS
