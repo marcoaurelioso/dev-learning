@@ -43,5 +43,9 @@
 - [Ciclo de vida dos Pods | Kubenetes na prática](https://www.youtube.com/watch?v=CCM-ud-mCIs&list=PLg7nVxv7fa6fIeqsfIrw7cGjDU32tTykR&index=2)
 - [Conhecendo o ConfigMap | Kubernetes](https://www.youtube.com/watch?v=7sQGK8XEk8w&list=PLg7nVxv7fa6fIeqsfIrw7cGjDU32tTykR&index=3)
 
+### Unit Test
+- [.NET TESTES UNITÁRIOS DO ZERO | PARTE 01 | FAKERS, ASSERTIONS, TRAITS, FACTS, THEORIES, TRAITS](https://www.youtube.com/watch?v=jG2uNrTREF8)
+- [.NET TESTES UNITÁRIOS DO ZERO | PARTE 02 | MOQS, ENTITY FRAMEWORK, EXCEPTIONS, ASSERTIONS](https://www.youtube.com/watch?v=KzFm8JpQj5k)
+
 ## AWS
 - [Roles na AWS](https://www.youtube.com/watch?v=LX6hDSspYa8)
